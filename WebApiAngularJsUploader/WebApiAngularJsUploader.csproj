@@ -190,12 +190,14 @@
     <Content Include="app\appInfo.js" />
     <Content Include="app\egAppStatus.html" />
     <Content Include="app\egAppStatus.js" />
+    <Content Include="app\Index.html" />
     <Content Include="app\model3D\model3D.module.js" />
     <Content Include="app\nav.html" />
     <Content Include="app\model3D\egmodel3DUploadFiles.js" />
     <Content Include="app\model3D\egmodel3DUploader.html" />
     <Content Include="app\model3D\egmodel3DUploader.js" />
     <Content Include="app\model3D\egmodel3DUpload.js" />
+    <Content Include="app\partials\lmviewer.html" />
     <Content Include="app\photo\photo.module.js" />
     <Content Include="app\model3D\model3DManager.js" />
     <Content Include="app\model3D\model3DManagerClient.js" />
