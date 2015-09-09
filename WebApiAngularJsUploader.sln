@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAngularJsUploader", "WebApiAngularJsUploader\WebApiAngularJsUploader.csproj", "{7103E0CA-0794-415B-A8DF-6F083C470126}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{427B6B8C-7755-4004-B497-7970B7E77E0D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		License.txt = License.txt
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{2A6A88BA-2815-4BD0-A12F-89D1AFB9E498}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		License.txt = License.txt
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewAndShare", "..\workflow\workflow\ViewAndShare\ViewAndShare\ViewAndShare.csproj", "{AB059783-4DA5-446E-960E-3AE93B694AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerUtil", "..\workflow\workflow\ViewAndShare\ViewerUtil\ViewerUtil.csproj", "{FC0B05BF-2B1D-4ADC-9133-2796319F79F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDeskAuthTokenServer", "LmvAuthTokenServer\LmvAuthTokenServer\AutoDeskAuthTokenServer.csproj", "{C38F12C7-9EC0-479D-AF7F-87C034A96A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LmvAppServer", "LmvAppServer\LmvAppServer\LmvAppServer.csproj", "{78559831-0F4C-400B-BF34-3B8E82BE2FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7103E0CA-0794-415B-A8DF-6F083C470126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7103E0CA-0794-415B-A8DF-6F083C470126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7103E0CA-0794-415B-A8DF-6F083C470126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7103E0CA-0794-415B-A8DF-6F083C470126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB059783-4DA5-446E-960E-3AE93B694AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB059783-4DA5-446E-960E-3AE93B694AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB059783-4DA5-446E-960E-3AE93B694AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB059783-4DA5-446E-960E-3AE93B694AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0B05BF-2B1D-4ADC-9133-2796319F79F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0B05BF-2B1D-4ADC-9133-2796319F79F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0B05BF-2B1D-4ADC-9133-2796319F79F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0B05BF-2B1D-4ADC-9133-2796319F79F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38F12C7-9EC0-479D-AF7F-87C034A96A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38F12C7-9EC0-479D-AF7F-87C034A96A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38F12C7-9EC0-479D-AF7F-87C034A96A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38F12C7-9EC0-479D-AF7F-87C034A96A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78559831-0F4C-400B-BF34-3B8E82BE2FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78559831-0F4C-400B-BF34-3B8E82BE2FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78559831-0F4C-400B-BF34-3B8E82BE2FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78559831-0F4C-400B-BF34-3B8E82BE2FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

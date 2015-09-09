@@ -1,0 +1,12 @@
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\bin\LmvAppServer.dll.config
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\bin\LmvAppServer.dll
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\bin\LmvAppServer.pdb
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\obj\Debug\LmvAppServer.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\obj\Debug\LmvAppServer.dll
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\obj\Debug\LmvAppServer.pdb
+C:\Users\QuanticoUser4\OneDrive\Documentos\AngularJS with Web API uploading files\C#\LmvAppServer\LmvAppServer\bin\LmvAppServer.dll.config
+C:\Users\QuanticoUser4\OneDrive\Documentos\AngularJS with Web API uploading files\C#\LmvAppServer\LmvAppServer\bin\LmvAppServer.dll
+C:\Users\QuanticoUser4\OneDrive\Documentos\AngularJS with Web API uploading files\C#\LmvAppServer\LmvAppServer\bin\LmvAppServer.pdb
+C:\Users\QuanticoUser4\OneDrive\Documentos\AngularJS with Web API uploading files\C#\LmvAppServer\LmvAppServer\obj\Debug\LmvAppServer.csprojResolveAssemblyReference.cache
+C:\Users\QuanticoUser4\OneDrive\Documentos\AngularJS with Web API uploading files\C#\LmvAppServer\LmvAppServer\obj\Debug\LmvAppServer.dll
+C:\Users\QuanticoUser4\OneDrive\Documentos\AngularJS with Web API uploading files\C#\LmvAppServer\LmvAppServer\obj\Debug\LmvAppServer.pdb
