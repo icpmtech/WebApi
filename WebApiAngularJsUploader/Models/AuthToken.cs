@@ -17,14 +17,14 @@ namespace WebApiUploaderModels.Models
         private static List<KeyValuePair<string, string>> Credentials = new List<KeyValuePair<string, string>> 
         {
             { new KeyValuePair<string, string>( "client_id", "N4qn7W0Towp7LnISt4KAM1YqnHCr7kJX" ) },
-            { new KeyValuePair<string, string>( "client_secret", "Lf4afb74dd9224cd" ) },
+            { new KeyValuePair<string, string>( "client_secret", "L055a515ebbe7485" ) },
             { new KeyValuePair<string, string>( "grant_type", "client_credentials" ) }
         };
 
         public static BrokerToken TheBrokerToken { get; set; }
         private HttpResponseMessage AResponseMessage { get; set; }
         private DateTime TokenIssuedTime { get; set; }
-        private int AboutExpiredSeconds = 5;
+        private int AboutExpiredSeconds = 40000;
 
         // Check if token has been retrieved and store response.
         //See Autodesk MyAuthToken.js
